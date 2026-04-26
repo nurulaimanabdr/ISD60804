@@ -6,17 +6,7 @@ We will use **Node-RED**, a visual programming tool, to learn how data flows, ho
 
 ---
 
-## 🛠️ Prerequisites & Setup (Before Week 1)
-To keep things accessible, we are using cloud-hosted Node-RED. 
-1. Go to [FlowFuse](https://flowfuse.com/) (or your university's provided Node-RED link).
-2. Create a free account and start your Node-RED instance.
-3. **Install the UI Palette:** - Click the hamburger menu (top right) `≡` -> `Manage palette`.
-   - Go to the `Install` tab.
-   - Search for `node-red-dashboard` and click install.
-
----
-
-## 📅 Week 1: The Basics of Data Flow & "Hello World"
+## 📅 Week 2: The Basics of Data Flow & "Hello World"
 **Learning Outcome:** Understand the core concept of IoT—Triggers (Inputs) and Responses (Outputs), and build your first user interface.
 
 ### Part A: Hello World (Behind the Scenes)
@@ -44,7 +34,7 @@ To keep things accessible, we are using cloud-hosted Node-RED.
 
 ---
 
-## 📅 Week 2: Designing with Invisible Data (APIs)
+## 📅 Week 3: Designing with Invisible Data (APIs)
 **Learning Outcome:** Learn how to use public data as a design material to make systems "smart" without asking the user for input.
 
 ### Practical: The Live Weather Dashboard
@@ -62,7 +52,7 @@ To keep things accessible, we are using cloud-hosted Node-RED.
 
 ---
 
-## 📅 Week 3: Tangible Interfaces & Emulating Hardware
+## 📅 Week 4: Tangible Interfaces & Emulating Hardware
 **Learning Outcome:** Build two-way interactions. Learn affordances—giving users control and providing immediate feedback.
 
 ### Practical: The Smart Light Controller
@@ -83,7 +73,7 @@ To keep things accessible, we are using cloud-hosted Node-RED.
 
 ---
 
-## 📅 Week 4: Calm Technology & Automated Notifications
+## 📅 Week 5: Calm Technology & Automated Notifications
 **Learning Outcome:** Understand thresholds and proactive system design. When should a system interrupt a user?
 
 ### Practical: The Plant Monitoring Alert System
@@ -100,7 +90,7 @@ We will combine Week 2 (Data) and Week 3 (Logic) to create an alert. Let's prete
 
 ---
 
-## 🎓 Week 5: Mini-Project Assessment
+## 🎓 Week 6: Mini-Project Assessment
 **The Brief:** Design your own "Smart Dashboard" using the skills learned in Weeks 1-4.
 * **Requirements:** 1. Pull data from at least one public API (e.g., transit data, crypto prices, air quality).
   2. Include at least one user control (button, slider, text input).
