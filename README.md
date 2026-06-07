@@ -99,4 +99,4 @@ We will combine Week 2 (Data) and Week 3 (Logic) to create an alert. Let's prete
 
 ---
 ## Lab Materials
-* [Week 8 Node-RED Practicals](Week8_NodeRED-Practicals.md)
+* [Week 8 Node-RED Practicals](Week 8_NodeRED-Practicals.md)
