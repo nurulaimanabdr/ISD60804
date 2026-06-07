@@ -90,7 +90,7 @@ We will combine Week 2 (Data) and Week 3 (Logic) to create an alert. Let's prete
 
 ---
 
-## 🎓 Week 6: Mini-Project Assessment
+## 🎓 Week 8: Mini-Project Assessment
 **The Brief:** Design your own "Smart Dashboard" using the skills learned in Weeks 1-4.
 * **Requirements:** 1. Pull data from at least one public API (e.g., transit data, crypto prices, air quality).
   2. Include at least one user control (button, slider, text input).
