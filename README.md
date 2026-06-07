@@ -98,3 +98,5 @@ We will combine Week 2 (Data) and Week 3 (Logic) to create an alert. Let's prete
 * **Focus:** As IxD students, you will be graded on the **layout, color choices, clear labeling, and user experience** of your `/ui` dashboard, not just the logic!
 
 ---
+## Lab Materials
+* [Week 8 Node-RED Practicals](Week8_NodeRED-Practicals.md)
